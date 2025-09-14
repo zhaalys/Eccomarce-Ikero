@@ -1,4 +1,4 @@
-﻿Eccomarce Ikero
+﻿Eccomarce-Ikero
 
 Eccomarce-Ikero adalah platform e-commerce yang dirancang untuk memberikan pengalaman berbelanja yang mudah, cepat, dan aman. Platform ini menawarkan solusi lengkap bagi pengusaha online untuk mengelola toko mereka, mulai dari katalog produk hingga pemrosesan pembayaran.
 
@@ -22,5 +22,6 @@ Responsive Design: Dapat diakses dengan baik melalui perangkat desktop dan mobil
 
 
 ![Desain Logo Tim IKERO](Desain%20Logo%20Tim%20IKERO.png)
+
 
 
